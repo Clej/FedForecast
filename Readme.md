@@ -1,0 +1,1 @@
+Application and comparison of Federated Averging to train LSTM models for time series forecasting.
